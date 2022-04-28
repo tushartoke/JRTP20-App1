@@ -17,7 +17,6 @@ public class PasswordService {
 	}
 	
 	public static void main(String[] args) {
-		
 		String Original_String = new String("Ashok");
 		System.out.println("Original String: " + Original_String);
 		String str = Encode("Ashok");
